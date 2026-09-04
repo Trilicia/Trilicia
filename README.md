@@ -1,8 +1,8 @@
 # Olá, eu sou Trilicia Gomes 👋
 
-Sou **Doutora em Ciência dos Alimentos pela UFSC**, com mais de 10 anos de experiência em pesquisa científica, análise de dados, gestão de processos e liderança.
+Atuo na conexão entre **Análise de Dados, Gestão de Projetos e estratégia de negócio**, transformando dados complexos em indicadores, insights e soluções que apoiam decisões.
 
-Atualmente, direciono minha trajetória profissional para **Análise de Dados e Gestão de Projetos em Dados e IA**, conectando visão analítica, conhecimento de negócio e experiência em gestão para transformar dados em decisões.
+Sou **Doutora em Ciência dos Alimentos pela UFSC** e reúno mais de 10 anos de experiência em análise estatística, pesquisa científica, gestão de processos e liderança. Essa trajetória é complementada por projetos práticos desenvolvidos com **Python, SQL, Business Intelligence e Inteligência Artificial**.
 
 ## Sobre mim
 
