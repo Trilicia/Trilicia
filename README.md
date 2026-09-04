@@ -38,7 +38,7 @@ O projeto contempla auditoria, limpeza e padronização dos dados, tratamento de
 
 **Tecnologias:** Python, Pandas, SQL, SQLite, HTML, CSS, JavaScript e GitHub Pages.
 
-- [Explorar o dashboard interativo](https://trilicia.github.io/piwi_consumer_insights/dashboard/)
+- [Explorar o dashboard interativo](https://trilicia.github.io/wine_consumer_insights/dashboard/)
 - [Ver código e documentação](https://github.com/Trilicia/piwi_consumer_insights)
 
 ---
