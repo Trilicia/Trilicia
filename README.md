@@ -30,7 +30,7 @@ Minha experiência combina:
 
 ## Projetos em destaque
 
-### 🍷 PIWI Consumer Insights
+### 🍷 Wine Consumer Insights
 
 Projeto end-to-end de análise de uma pesquisa de mercado sobre comportamento de compra e percepção de sustentabilidade no consumo de vinhos.
 
