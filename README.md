@@ -107,7 +107,7 @@ Data Cleaning • EDA • Estatística Descritiva • Manipulação de grandes b
 
 ---
 
-# 📋 Gestão, Dados e Tomada de Decisão
+## 📋 Gestão, Dados e Tomada de Decisão
 
 Além das competências técnicas, minha experiência profissional anterior contribuiu para o desenvolvimento de habilidades diretamente aplicáveis a projetos de Dados e Tecnologia:
 
