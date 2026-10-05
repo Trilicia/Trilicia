@@ -30,55 +30,96 @@ Minha experiência combina:
 
 ## Projetos em destaque
 
-### 🍷 Wine Consumer Insights
+## 🍷 Wine Consumer Insights
 
-Projeto end-to-end de análise de uma pesquisa de mercado sobre comportamento de compra e percepção de sustentabilidade no consumo de vinhos.
+**Projeto end-to-end de análise de dados aplicado a uma pesquisa de mercado sobre comportamento de compra e percepção de sustentabilidade no consumo de vinhos.**
 
-O projeto contempla auditoria, limpeza e padronização dos dados, tratamento de respostas de múltipla escolha, engenharia de variáveis, modelagem SQL, análise exploratória e publicação de um dashboard interativo.
+O projeto contempla auditoria e padronização dos dados, tratamento de respostas de múltipla escolha, engenharia de variáveis, modelagem SQL, análise exploratória e desenvolvimento de dashboard interativo.
 
-**Tecnologias:** Python, Pandas, SQL, SQLite, HTML, CSS, JavaScript e GitHub Pages.
+**Tecnologias:** `Python` `Pandas` `SQL` `SQLite` `HTML` `CSS` `JavaScript` `GitHub Pages`
 
-- [Explorar o dashboard interativo](https://trilicia.github.io/wine_consumer_insights/dashboard/)
-- [Ver código e documentação](https://github.com/Trilicia/piwi_consumer_insights)
+**Competências demonstradas:**  
+Análise end-to-end • Data Cleaning • Feature Engineering • SQL • EDA • Data Visualization • Comunicação de resultados
 
----
-
-### 📊 Análise Exploratória de Dados de Varejo
-
-Preparação, limpeza, transformação e análise exploratória de uma base de varejo, com investigação de padrões e geração de informações relevantes para o negócio.
-
-**Tecnologias:** Python e Pandas.
-
-- [Ver projeto no GitHub](https://github.com/Trilicia/Miniprojeto_TriliciaGomes_Analise_de_Dados_T1)
+- 🔎 [Explorar o dashboard interativo](LINK_DO_DASHBOARD)
+- 💻 [Ver código e documentação](LINK_DO_REPOSITORIO)
 
 ---
 
-### 🤖 Predição de Cancelamento de Reservas Hoteleiras
+## 🛒 Análise de Vendas de Supermercado
 
-Análise exploratória e desenvolvimento de modelos de Machine Learning para investigar fatores associados ao cancelamento de reservas.
+**Pipeline de análise de dados desenvolvido para transformar dados transacionais em informações relevantes para tomada de decisão.**
 
-**Tecnologias:** Python, Pandas, Scikit-learn e Matplotlib.
+O projeto envolve ingestão e tratamento dos dados com Python, armazenamento em PostgreSQL, consultas SQL, validações de integridade e análise de questões relacionadas ao desempenho de vendas.
 
-- [Ver projeto no GitHub](https://github.com/Trilicia/Modelo-Preditivo-Hotel-Booking-Demand)
+**Tecnologias:** `Python` `Pandas` `SQL` `PostgreSQL`
 
----
+**Competências demonstradas:**  
+ETL • Data Quality • Modelagem de dados • SQL • Análise de negócio • Organização de pipeline
 
-### 📈 Superstore Sales Performance
-
-Dashboard analítico para investigação de vendas, lucratividade, descontos, categorias, regiões e segmentos de clientes.
-
-**Tecnologias:** Looker Studio, Excel e modelagem de dados.
-
-- [Explorar o dashboard](https://datastudio.google.com/s/iAv1zTyJ3Tw)
-- [Ver projeto no GitHub](https://github.com/Trilicia/Analise-Superstore-)
+- 💻 [Ver projeto no GitHub](https://github.com/Trilicia/analise-vendas-supermercado)
 
 ---
 
-### ☁️ Azure AI Language & Speech
+## 📊 Superstore Sales Analysis
 
-Aplicação prática de serviços de Inteligência Artificial para processamento de linguagem natural, análise de sentimentos, identificação de entidades e reconhecimento de fala.
+**Análise de desempenho comercial desenvolvida para investigar vendas, lucratividade, descontos e comportamento por categorias e regiões.**
 
-**Tecnologias:** Microsoft Azure AI Language e Azure Speech.
+Python foi utilizado na preparação e exploração dos dados, enquanto os principais indicadores e resultados foram consolidados em um dashboard interativo para facilitar a interpretação das informações.
+
+**Tecnologias:** `Python` `Pandas` `EDA` `Looker Studio`
+
+**Competências demonstradas:**  
+Business Analysis • KPIs • Data Visualization • EDA • Dashboard • Data Storytelling
+
+- 💻 [Ver projeto no GitHub](https://github.com/Trilicia/Superstore_sales_analysis)
+- 📊 [Explorar dashboard](LINK_DO_DASHBOARD)
+
+---
+
+## 🤖 Predição de Cancelamento de Reservas Hoteleiras
+
+**Projeto de Machine Learning voltado à investigação dos fatores relacionados ao cancelamento de reservas hoteleiras.**
+
+O projeto contempla preparação dos dados, análise exploratória, treinamento de modelos de classificação e avaliação de desempenho por meio de métricas de Machine Learning.
+
+**Tecnologias:** `Python` `Pandas` `Scikit-learn` `Matplotlib`
+
+**Competências demonstradas:**  
+Machine Learning • Classificação • Feature Analysis • Model Evaluation • EDA
+
+- 💻 [Ver projeto no GitHub](LINK_DO_REPOSITORIO)
+
+---
+
+## 📈 Análise Exploratória de Dados de Varejo
+
+**Projeto de preparação, limpeza, transformação e análise exploratória de uma base de dados de varejo.**
+
+A análise investiga padrões presentes nos dados e utiliza estatística descritiva para transformar uma base bruta em informações relevantes para compreensão do negócio.
+
+**Tecnologias:** `Python` `Pandas`
+
+**Competências demonstradas:**  
+Data Cleaning • EDA • Estatística Descritiva • Manipulação de grandes bases de dados
+
+- 💻 [Ver projeto no GitHub](https://github.com/Trilicia/Miniprojeto_TriliciaGomes_Analise_de_Dados_T1)
+
+---
+
+# 📋 Gestão, Dados e Tomada de Decisão
+
+Além das competências técnicas, minha experiência profissional anterior contribuiu para o desenvolvimento de habilidades diretamente aplicáveis a projetos de Dados e Tecnologia:
+
+- 📌 Acompanhamento e análise de **KPIs e indicadores de desempenho**
+- 📌 Planejamento e acompanhamento de **processos e entregas**
+- 📌 Identificação de problemas e oportunidades de **melhoria contínua**
+- 📌 Gestão e organização de **equipes e prioridades**
+- 📌 Comunicação de informações para suporte à **tomada de decisão**
+- 📌 Visão analítica aliada à compreensão das **necessidades do negócio**
+- 📌 Experiência em ambientes acadêmicos e industriais orientados a resultados
+
+Essa combinação me permite atuar não apenas na análise dos dados, mas também na **organização, acompanhamento e comunicação de projetos orientados por dados**.
 
 ## Portfólio
 
